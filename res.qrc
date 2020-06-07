@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>res/background-new.png</file>
+        <file>res/xy.png</file>
+        <file>res/xy0 (1).png</file>
+        <file>res/xy0 (2).png</file>
+        <file>res/xy0 (3).png</file>
+        <file>res/xy0 (4).png</file>
+        <file>res/zgj.png</file>
+        <file>res/namelist.png</file>
+        <file>res/close2.png</file>
+        <file>res/close3.png</file>
+        <file>res/mini2.png</file>
+        <file>res/mini3.png</file>
+        <file>res/buttonBg.png</file>
+        <file>res/xy4.png</file>
+    </qresource>
+</RCC>
